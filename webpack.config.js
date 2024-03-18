@@ -29,7 +29,7 @@ module.exports = {
         loader: "url-loader",
         options: {
           limit: 10000,
-          outputPath: "assets/", // Assuming you want images in a subfolder within dist
+          outputPath: "assets/",
         },
       },
     ],

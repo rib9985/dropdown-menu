@@ -1,2 +1,2 @@
-# basic-webpack-template
-A basic webpack template 
+# A dropdown menu implementation in HTML, CSS, JS.
+A simple dropdown menu
